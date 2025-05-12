@@ -1,7 +1,22 @@
-## Komari Monitor
-> [!IMPORTANT]  
-> Komari 正处于开发中，只有部分功能可用
+# Komari Monitor
 
-一款轻量的服务器探针
+> [!IMPORTANT]
+> Komari 正处于开发中，仅部分功能可用
+> 
+> Under development, only some features available
+> 
+> 開発中、一部機能のみ利用可能
 
-[服务端](https://github.com/komari-monitor/komari) | [Agent](https://github.com/komari-monitor/komari-agent) | [Web前端](https://github.com/komari-monitor/komari-web) | [文档](https://github.com/komari-monitor/komari-document)
+一款轻量级服务器探针，简单高效地监控服务器状态 
+
+A lightweight server probe for simple, efficient monitoring 
+
+シンプルかつ効率的なサーバー監視のための軽量プローブ
+
+[服务端/Server/サーバー](https://github.com/komari-monitor/komari) 
+
+[Agent/Agent/エージェント](https://github.com/komari-monitor/komari-agent) 
+
+[Web前端/Web Frontend/ウェブフロントエンド](https://github.com/komari-monitor/komari-web) 
+
+[文档/Documentation/ドキュメント](https://github.com/komari-monitor/komari-document)
